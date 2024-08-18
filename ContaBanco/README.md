@@ -11,7 +11,9 @@ O programa realiza as seguintes ações:
 ## Entrada
 
 Por favor, informe o seu nome!: Fabrício
+
 Por favor, digite o número da Agência!: 1021
+
 Por favor, digite o número da Conta!: 0678
 
 ## Saída
